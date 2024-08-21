@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "hodgepodge",
+	"version": "${version}",
+	"name": "hodgepodge",
+	"description": "这个模组是作者想到什么就加什么。This mod is whatever the author comes up with.",
+	"authors": [
+		"秋叶之心"
+	],
+	"contact": {
+		"homepage": "https://fabricmc.net/",
+		"sources": "https://github.com/FabricMC/fabric-example-mod"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/hodgepodge/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"name.hodgepodge.Hodgepodge"
+		],
+		"fabric-datagen": [
+			"name.hodgepodge.HodgepodgeDataGenerator"
+		],
+		"client": [
+			"name.hodgepodge.Hodgepodgeclient"
+		]
+	},
+	"mixins": [
+		"hodgepodge.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.2",
+		"minecraft": "~1.21",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}
