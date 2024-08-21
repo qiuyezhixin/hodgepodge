@@ -8,8 +8,7 @@
 		"秋叶之心"
 	],
 	"contact": {
-		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/FabricMC/fabric-example-mod"
+		"sources": "https://github.com/qiuyezhixin/hodgepodge"
 	},
 	"license": "CC0-1.0",
 	"icon": "assets/hodgepodge/icon.png",
