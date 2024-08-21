@@ -1,5 +1,6 @@
 package name.hodgepodge;
 
+import name.hodgepodge.block.ModBlocks;
 import name.hodgepodge.item.ModItemGroups;
 import name.hodgepodge.item.ModItems;
 import net.fabricmc.api.ModInitializer;
@@ -23,6 +24,7 @@ public class Hodgepodge implements ModInitializer {
 
 		ModItems.registerModItems();
 		ModItemGroups.registerModItemGroups();
+		ModBlocks.registerModBlocks();
 		LOGGER.info("Hello Fabric world!");
 	}
 }

@@ -1,6 +1,7 @@
 package name.hodgepodge.item;
 
 import name.hodgepodge.Hodgepodge;
+import name.hodgepodge.block.ModBlocks;
 import net.minecraft.item.ItemGroup;
 import net.minecraft.item.ItemStack;
 import net.minecraft.registry.Registries;
@@ -27,6 +28,8 @@ public class ModItemGroups {
                             entries.add(ModItems.ECHO_INGOT);
                             entries.add(ModItems.ECHO_NUGGET);
                             entries.add(ModItems.ECHO_UPGRADE_SMITHING_TEMPLATE);
+
+                            entries.add(ModBlocks.ECHO_BLOCK);
                         }).build());
         Hodgepodge.LOGGER.info("registering Item Groups");
     }
