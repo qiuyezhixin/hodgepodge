@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "hodgepodge:block/raw_echo_block"
+    }
+  }
+}

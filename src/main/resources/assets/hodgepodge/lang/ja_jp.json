@@ -2,7 +2,12 @@
   "item.hodgepodge.echo_ingot": "反響錠です",
   "item.hodgepodge.echo_nugget": "反響粒です",
   "item.hodgepodge.echo_upgrade_smithing_template": "鋳型を鍛えます",
+  "item.hodgepodge.raw_echo": "太い響きです",
+
   "itemGroup.hodgepodge_group": "ごった煮の欄です",
 
-  "block.hodgepodge.echo_block": "反響ブロックです"
+  "block.hodgepodge.echo_block": "反響ブロックです",
+  "block.hodgepodge.echo_ore": "リバーブ鉱石",
+  "block.hodgepodge.deepslate_echo_ore": "深層反響石です",
+  "block.hodgepodge.raw_echo_block": "太い反響ブロックです"
 }

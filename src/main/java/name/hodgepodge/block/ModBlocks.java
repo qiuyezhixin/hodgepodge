@@ -10,7 +10,10 @@ import net.minecraft.registry.Registry;
 import net.minecraft.util.Identifier;
 
 public class ModBlocks {
-    public static final Block ECHO_BLOCK = register("echo_block", new Block(AbstractBlock.Settings.create().strength(3.0f, 3.0f)));
+    public static final Block ECHO_BLOCK = register("echo_block", new Block(AbstractBlock.Settings.create().requiresTool().strength(3.0f, 3.0f)));
+    public static final Block ECHO_ORE = register("echo_ore", new Block(AbstractBlock.Settings.create().requiresTool().strength(2.0f, 2.0f)));
+    public static final Block DEEPSLATE_ECHO_ORE = register("deepslate_echo_ore", new Block(AbstractBlock.Settings.create().requiresTool().strength(2.5f, 2.5f)));
+    public static final Block RAW_ECHO_BLOCK = register("raw_echo_block", new Block(AbstractBlock.Settings.create().requiresTool().strength(2.0f, 2.0f)));
     public static void registerBlockItems(String id, Block block) {
         Item item = Registry.register(Registries.ITEM, Identifier.of(Hodgepodge.MOD_ID, id), new BlockItem(block, new Item.Settings()));
         if (item instanceof  BlockItem) {

@@ -28,8 +28,12 @@ public class ModItemGroups {
                             entries.add(ModItems.ECHO_INGOT);
                             entries.add(ModItems.ECHO_NUGGET);
                             entries.add(ModItems.ECHO_UPGRADE_SMITHING_TEMPLATE);
+                            entries.add(ModItems.RAW_ECHO);
 
                             entries.add(ModBlocks.ECHO_BLOCK);
+                            entries.add(ModBlocks.ECHO_ORE);
+                            entries.add(ModBlocks.DEEPSLATE_ECHO_ORE);
+                            entries.add(ModBlocks.RAW_ECHO_BLOCK);
                         }).build());
         Hodgepodge.LOGGER.info("registering Item Groups");
     }

@@ -2,7 +2,12 @@
   "item.hodgepodge.echo_ingot": "回响锭",
   "item.hodgepodge.echo_nugget": "回响粒",
   "item.hodgepodge.echo_upgrade_smithing_template": "锻造模板",
+  "item.hodgepodge.raw_echo": "粗回响",
+
   "itemGroup.hodgepodge_group": "大杂烩物品栏",
 
-  "block.hodgepodge.echo_block": "回响块"
+  "block.hodgepodge.echo_block": "回响块",
+  "block.hodgepodge.echo_ore": "回响矿石",
+  "block.hodgepodge.deepslate_echo_ore": "深层回响矿石",
+  "block.hodgepodge.raw_echo_block": "粗回响块"
 }
