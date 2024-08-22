@@ -29,6 +29,7 @@ public class ModItemGroups {
                             entries.add(ModItems.ECHO_NUGGET);
                             entries.add(ModItems.ECHO_UPGRADE_SMITHING_TEMPLATE);
                             entries.add(ModItems.RAW_ECHO);
+                            entries.add(ModItems.ECHO_STAR);
 
                             entries.add(ModBlocks.ECHO_BLOCK);
                             entries.add(ModBlocks.ECHO_ORE);
