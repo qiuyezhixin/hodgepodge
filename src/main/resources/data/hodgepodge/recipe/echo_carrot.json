@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "group": "boat",
+  "key": {
+    "A": {
+      "item": "hodgepodge:echo_ingot"
+    },
+    "B": {
+      "item": "minecraft:carrot"
+    }
+  },
+  "pattern": [
+    "AAA",
+    "ABA",
+    "AAA"
+  ],
+  "result": {
+    "count": 1,
+    "id": "hodgepodge:echo_carrot"
+  }
+}

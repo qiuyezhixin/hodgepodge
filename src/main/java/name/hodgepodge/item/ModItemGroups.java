@@ -29,11 +29,26 @@ public class ModItemGroups {
                             entries.add(ModItems.ECHO_NUGGET);
                             entries.add(ModItems.ECHO_UPGRADE_SMITHING_TEMPLATE);
                             entries.add(ModItems.RAW_ECHO);
+                            entries.add(ModItems.ECHO_STAR);
+                            entries.add(ModItems.ECHO_APPLE);
+                            entries.add(ModItems.ECHO_CARROT);
+
+                            entries.add(ModItems.ECHO_SWORD);
+                            entries.add(ModItems.ECHO_AXE);
+                            entries.add(ModItems.ECHO_PICKAXE);
+                            entries.add(ModItems.ECHO_SHOVEL);
+                            entries.add(ModItems.ECHO_HOE);
+
+                            entries.add(ModItems.ECHO_HELMET);
+                            entries.add(ModItems.ECHO_CHESTPLATE);
+                            entries.add(ModItems.ECHO_LEGGINGS);
+                            entries.add(ModItems.ECHO_BOOTS);
 
                             entries.add(ModBlocks.ECHO_BLOCK);
                             entries.add(ModBlocks.ECHO_ORE);
                             entries.add(ModBlocks.DEEPSLATE_ECHO_ORE);
                             entries.add(ModBlocks.RAW_ECHO_BLOCK);
+
                         }).build());
         Hodgepodge.LOGGER.info("registering Item Groups");
     }

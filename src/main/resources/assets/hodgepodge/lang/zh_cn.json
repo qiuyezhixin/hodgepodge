@@ -3,6 +3,20 @@
   "item.hodgepodge.echo_nugget": "回响粒",
   "item.hodgepodge.echo_upgrade_smithing_template": "锻造模板",
   "item.hodgepodge.raw_echo": "粗回响",
+  "item.hodgepodge.echo_star": "回响之星",
+  "item.hodgepodge.echo_apple": "回响苹果",
+  "item.hodgepodge.echo_carrot": "回响萝卜",
+
+  "item.hodgepodge.echo_sword": "回响剑",
+  "item.hodgepodge.echo_axe": "回响斧",
+  "item.hodgepodge.echo_pickaxe": "回响镐",
+  "item.hodgepodge.echo_shovel": "回响锹",
+  "item.hodgepodge.echo_hoe": "回响锄",
+
+  "item.hodgepodge.echo_helmet": "回响头盔",
+  "item.hodgepodge.echo_chestplate": "回响胸甲",
+  "item.hodgepodge.echo_leggings": "回响护腿",
+  "item.hodgepodge.echo_boots": "回响靴子",
 
   "itemGroup.hodgepodge_group": "大杂烩物品栏",
 

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:smithing_transform",
+  "addition": {
+    "item": "hodgepodge:echo_ingot"
+  },
+  "base": {
+    "item": "minecraft:netherite_leggings"
+  },
+  "result": {
+    "count": 1,
+    "id": "hodgepodge:echo_leggings"
+  },
+  "template": {
+    "item": "hodgepodge:echo_upgrade_smithing_template"
+  }
+}
