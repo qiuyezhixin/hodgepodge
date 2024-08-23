@@ -1,0 +1,11 @@
+{
+  "block.hodgepodge.deepslate_echo_ore": "Deepslate Echo Ore",
+  "block.hodgepodge.echo_block": "Echo Block",
+  "block.hodgepodge.echo_ore": "Echo Ore",
+  "block.hodgepodge.raw_echo_block": "Raw Echo Block",
+  "item.hodgepodge.echo_ingot": "Echo Ingot",
+  "item.hodgepodge.echo_nugget": "Echo Nugget",
+  "item.hodgepodge.echo_upgrade_smithing_template": "Smithing Template",
+  "item.hodgepodge.raw_echo": "Raw Echo",
+  "itemGroup.hodgepodge_group": "hodgepodge_group"
+}
