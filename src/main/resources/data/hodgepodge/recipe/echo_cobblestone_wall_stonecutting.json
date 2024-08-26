@@ -1,0 +1,10 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "hodgepodge:echo_cobblestone"
+  },
+  "result": {
+    "count": 1,
+    "id": "hodgepodge:echo_cobblestone_wall"
+  }
+}

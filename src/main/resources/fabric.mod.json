@@ -21,7 +21,7 @@
 			"name.hodgepodge.HodgepodgeDataGenerator"
 		],
 		"client": [
-			"name.hodgepodge.Hodgepodgeclient"
+			"name.hodgepodge.HodgepodgeClient"
 		]
 	},
 	"mixins": [

@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "hodgepodge:block/echo_cobblestone_slab"
+    },
+    "type=double": {
+      "model": "hodgepodge:block/echo_cobblestone"
+    },
+    "type=top": {
+      "model": "hodgepodge:block/echo_cobblestone_slab_top"
+    }
+  }
+}

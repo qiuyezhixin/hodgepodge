@@ -32,6 +32,10 @@ public class ModItemGroups {
                             entries.add(ModItems.ECHO_STAR);
                             entries.add(ModItems.ECHO_APPLE);
                             entries.add(ModItems.ECHO_CARROT);
+                            entries.add(ModItems.CHILI_SEEDS);
+                            entries.add(ModItems.CHILI);
+                            entries.add(ModItems.PITAYA_SEEDS);
+                            entries.add(ModItems.PITAYA);
 
                             entries.add(ModItems.ECHO_SWORD);
                             entries.add(ModItems.ECHO_AXE);
@@ -48,6 +52,17 @@ public class ModItemGroups {
                             entries.add(ModBlocks.ECHO_ORE);
                             entries.add(ModBlocks.DEEPSLATE_ECHO_ORE);
                             entries.add(ModBlocks.RAW_ECHO_BLOCK);
+                            entries.add(ModBlocks.ECHO_COBBLESTONE);
+
+                            entries.add(ModBlocks.ECHO_COBBLESTONE_STAIRS);
+                            entries.add(ModBlocks.ECHO_COBBLESTONE_SLAB);
+                            entries.add(ModBlocks.ECHO_COBBLESTONE_BUTTON);
+                            entries.add(ModBlocks.ECHO_COBBLESTONE_PRESSURE_PLATE);
+                            entries.add(ModBlocks.ECHO_COBBLESTONE_FENCE);
+                            entries.add(ModBlocks.ECHO_COBBLESTONE_FENCE_GATE);
+                            entries.add(ModBlocks.ECHO_COBBLESTONE_WALL);
+                            entries.add(ModBlocks.ECHO_COBBLESTONE_TRAPDOOR);
+                            entries.add(ModBlocks.ECHO_COBBLESTONE_DOOR);
 
                         }).build());
         Hodgepodge.LOGGER.info("registering Item Groups");

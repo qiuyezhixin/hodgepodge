@@ -1,6 +1,7 @@
 package name.hodgepodge.item;
 
 import name.hodgepodge.Hodgepodge;
+import name.hodgepodge.block.ModBlocks;
 import net.minecraft.item.*;
 import net.minecraft.registry.Registries;
 import net.minecraft.registry.Registry;
@@ -13,8 +14,13 @@ public class ModItems {
     public static final Item ECHO_UPGRADE_SMITHING_TEMPLATE = registerIiems("echo_upgrade_smithing_template", new Item(new Item.Settings()));
     public static final Item RAW_ECHO = registerIiems("raw_echo", new Item(new Item.Settings()));
     public static final Item ECHO_STAR = registerIiems("echo_star", new Item(new Item.Settings()));
+    public static final Item CHILI_SEEDS = registerIiems("chili_seeds", new AliasedBlockItem(ModBlocks.CHILI_SEEDS_FARMLAND, new Item.Settings()));
+    public static final Item PITAYA_SEEDS = registerIiems("pitaya_seeds", new AliasedBlockItem(ModBlocks.PITAYA_SEEDS_STAGE, new Item.Settings()));
+
     public static final Item ECHO_APPLE = registerIiems("echo_apple", new Item(new Item.Settings().food(ModFoodComponents.ECHO_APPLE)));
     public static final Item ECHO_CARROT = registerIiems("echo_carrot", new Item(new Item.Settings().food(ModFoodComponents.ECHO_CARROT)));
+    public static final Item CHILI = registerIiems("chili", new Item(new Item.Settings().food(ModFoodComponents.CHILI)));
+    public static final Item PITAYA = registerIiems("pitaya", new Item(new Item.Settings().food(ModFoodComponents.PITAYA)));
 
     public static final Item ECHO_SWORD = registerIiems("echo_sword", new SwordItem(ModToolMaterials.ECHO_INGOT,
             new Item.Settings().fireproof().attributeModifiers(SwordItem.createAttributeModifiers(ModToolMaterials.ECHO_INGOT, 4, -2.4f))));

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "cross": "hodgepodge:block/pitaya_seeds_stage8"
+  }
+}

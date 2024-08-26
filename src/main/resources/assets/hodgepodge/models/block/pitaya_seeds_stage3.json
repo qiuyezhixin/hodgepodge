@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/cross",
+  "textures": {
+    "crop": "hodgepodge:block/pitaya_seeds_stage3"
+  }
+}

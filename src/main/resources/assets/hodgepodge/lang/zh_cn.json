@@ -6,6 +6,10 @@
   "item.hodgepodge.echo_star": "回响之星",
   "item.hodgepodge.echo_apple": "回响苹果",
   "item.hodgepodge.echo_carrot": "回响萝卜",
+  "item.hodgepodge.chili_seeds": "辣椒种子",
+  "item.hodgepodge.chili": "辣椒",
+  "item.hodgepodge.pitaya_seeds": "火龙果种子",
+  "item.hodgepodge.pitaya": "火龙果",
 
   "item.hodgepodge.echo_sword": "回响剑",
   "item.hodgepodge.echo_axe": "回响斧",
@@ -23,5 +27,16 @@
   "block.hodgepodge.echo_block": "回响块",
   "block.hodgepodge.echo_ore": "回响矿石",
   "block.hodgepodge.deepslate_echo_ore": "深层回响矿石",
-  "block.hodgepodge.raw_echo_block": "粗回响块"
+  "block.hodgepodge.raw_echo_block": "粗回响块",
+  "block.hodgepodge.echo_cobblestone": "回响圆石",
+
+  "block.hodgepodge.echo_cobblestone_stairs": "回响圆石楼梯",
+  "block.hodgepodge.echo_cobblestone_slab": "回响圆石台阶",
+  "block.hodgepodge.echo_cobblestone_button": "回响圆石按钮",
+  "block.hodgepodge.echo_cobblestone_pressure_plate": "回响圆石压力板",
+  "block.hodgepodge.echo_cobblestone_fence": "回响圆石栅栏",
+  "block.hodgepodge.echo_cobblestone_fence_gate": "回响圆石栅栏门",
+  "block.hodgepodge.echo_cobblestone_wall": "回响圆石墙",
+  "block.hodgepodge.echo_cobblestone_door": "回响圆石门",
+  "block.hodgepodge.echo_cobblestone_trapdoor": "回响圆石活板门"
 }

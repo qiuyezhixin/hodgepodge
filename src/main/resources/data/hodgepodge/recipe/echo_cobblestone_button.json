@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "category": "redstone",
+  "group": "wooden_button",
+  "ingredients": [
+    {
+      "item": "hodgepodge:echo_cobblestone"
+    }
+  ],
+  "result": {
+    "count": 1,
+    "id": "hodgepodge:echo_cobblestone_button"
+  }
+}

@@ -6,6 +6,10 @@
   "item.hodgepodge.echo_star": "Echo Star",
   "item.hodgepodge.echo_apple": "Echo Apple",
   "item.hodgepodge.echo_carrot": "Echo Carrot",
+  "item.hodgepodge.chili_seeds": "Chili Seeds",
+  "item.hodgepodge.chili": "Chili",
+  "item.hodgepodge.pitaya_seeds": "Pitaya Seeds",
+  "item.hodgepodge.pitaya": "Pitaya",
 
   "item.hodgepodge.echo_sword": "Echo Sword",
   "item.hodgepodge.echo_axe": "Echo Axe",
@@ -23,5 +27,16 @@
   "block.hodgepodge.echo_block": "Echo Block",
   "block.hodgepodge.echo_ore": "Echo Ore",
   "block.hodgepodge.deepslate_echo_ore": "Deepslate Echo Ore",
-  "block.hodgepodge.raw_echo_block": "Raw Echo Block"
+  "block.hodgepodge.raw_echo_block": "Raw Echo Block",
+  "block.hodgepodge.echo_cobblestone": "Echo Cobblestone",
+
+  "block.hodgepodge.echo_cobblestone_stairs": "Echo Cobblestone Stairs",
+  "block.hodgepodge.echo_cobblestone_slab": "Echo Cobblestone Slab",
+  "block.hodgepodge.echo_cobblestone_button": "Echo Cobblestone Button",
+  "block.hodgepodge.echo_cobblestone_pressure_plate": "Echo Cobblestone Pressure Plate",
+  "block.hodgepodge.echo_cobblestone_fence": "Echo Cobblestone Fence",
+  "block.hodgepodge.echo_cobblestone_fence_gate": "Echo Cobblestone Fence Gate",
+  "block.hodgepodge.echo_cobblestone_wall": "Echo Cobblestone Wall",
+  "block.hodgepodge.echo_cobblestone_door": "Echo Cobblestone Door",
+  "block.hodgepodge.echo_cobblestone_trapdoor": "Echo Cobblestone Trapdoor"
 }

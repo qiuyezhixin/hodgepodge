@@ -4,6 +4,16 @@
     "hodgepodge:echo_ore",
     "hodgepodge:deepslate_echo_ore",
     "hodgepodge:echo_block",
-    "hodgepodge:raw_echo_block"
+    "hodgepodge:raw_echo_block",
+    "hodgepodge:echo_cobblestone",
+    "hodgepodge:echo_cobblestone_stairs",
+    "hodgepodge:echo_cobblestone_slab",
+    "hodgepodge:echo_cobblestone_button",
+    "hodgepodge:echo_cobblestone_pressure_plate",
+    "hodgepodge:echo_cobblestone_fence",
+    "hodgepodge:echo_cobblestone_fence_gate",
+    "hodgepodge:echo_cobblestone_wall",
+    "hodgepodge:echo_cobblestone_door",
+    "hodgepodge:echo_cobblestone_trapdoor"
   ]
 }

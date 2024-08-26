@@ -19,4 +19,8 @@ public class ModFoodComponents {
             .statusEffect(new StatusEffectInstance(StatusEffects.HEALTH_BOOST, 500, 3),1f).build();
     public static final FoodComponent ECHO_CARROT = new FoodComponent.Builder().nutrition(40).saturationModifier(4f)
             .statusEffect(new StatusEffectInstance(StatusEffects.REGENERATION, 400, 255),1f).build();
+    public static final FoodComponent CHILI = new FoodComponent.Builder().nutrition(2).saturationModifier(1.0f)
+            .statusEffect(new StatusEffectInstance(StatusEffects.POISON, 100, 1), 0.1f).build();
+    public static final FoodComponent PITAYA = new FoodComponent.Builder().nutrition(3).saturationModifier(1.1f)
+            .statusEffect(new StatusEffectInstance(StatusEffects.WEAKNESS, 150, 1), 0.1f).build();
 }

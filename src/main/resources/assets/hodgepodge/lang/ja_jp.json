@@ -6,6 +6,10 @@
   "item.hodgepodge.echo_star": "反響の星です",
   "item.hodgepodge.echo_apple": "反響りんごです",
   "item.hodgepodge.echo_carrot": "響き大根です",
+  "item.hodgepodge.chili_seeds": "トウガラシの種です",
+  "item.hodgepodge.chili": "唐辛子です",
+  "item.hodgepodge.pitaya_seeds": "ドラゴンフルーツの種です",
+  "item.hodgepodge.pitaya": "ドラゴンフルーツ",
 
   "item.hodgepodge.echo_sword": "反響剣です",
   "item.hodgepodge.echo_axe": "響き斧です",
@@ -23,5 +27,16 @@
   "block.hodgepodge.echo_block": "反響ブロックです",
   "block.hodgepodge.echo_ore": "リバーブ鉱石",
   "block.hodgepodge.deepslate_echo_ore": "深層反響石です",
-  "block.hodgepodge.raw_echo_block": "太い反響ブロックです"
+  "block.hodgepodge.raw_echo_block": "太い反響ブロックです",
+  "block.hodgepodge.echo_cobblestone": "反響丸石",
+
+  "block.hodgepodge.echo_cobblestone_stairs": "反響する円石階段",
+  "block.hodgepodge.echo_cobblestone_slab": "反響する円石段",
+  "block.hodgepodge.echo_cobblestone_button": "反響ラウンドストーンボタンです",
+  "block.hodgepodge.echo_cobblestone_pressure_plate": "反響円石圧力板です",
+  "block.hodgepodge.echo_cobblestone_fence": "反響丸石の柵",
+  "block.hodgepodge.echo_cobblestone_fence_gate": "反響丸石の枝折戸",
+  "block.hodgepodge.echo_cobblestone_wall": "丸石の壁が響きます",
+  "block.hodgepodge.echo_cobblestone_door": "反響円石の門",
+  "block.hodgepodge.echo_cobblestone_trapdoor": "反響丸石活板門です"
 }

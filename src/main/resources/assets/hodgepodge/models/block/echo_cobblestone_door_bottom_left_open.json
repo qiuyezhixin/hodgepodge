@@ -1,0 +1,7 @@
+{
+  "parent": "minecraft:block/door_bottom_left_open",
+  "textures": {
+    "bottom": "hodgepodge:block/echo_cobblestone_door_bottom",
+    "top": "hodgepodge:block/echo_cobblestone_door_top"
+  }
+}

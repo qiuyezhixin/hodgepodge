@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:block/crop",
+  "textures": {
+    "crop": "hodgepodge:block/chili_seeds_farmland5"
+  }
+}

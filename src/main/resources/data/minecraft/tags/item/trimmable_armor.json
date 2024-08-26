@@ -1,4 +1,5 @@
 {
+  "replace": false,
   "values": [
     "hodgepodge:echo_helmet",
     "hodgepodge:echo_chestplate",
